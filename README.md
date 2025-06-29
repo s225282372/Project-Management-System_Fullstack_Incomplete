@@ -27,7 +27,7 @@ This is a full-stack project management web application for IT teams. It include
 
 ---
 
-## 🔧 Technologies Used
+## 🔧 Technologies in Use
 
 | Layer        | Tech Stack                         |
 |--------------|-------------------------------------|
